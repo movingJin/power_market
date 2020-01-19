@@ -1,7 +1,7 @@
 # power_market
 This Dapp made with ethereum for trading power
 
-### How to Run
+### How to Run (Server)
 Firstly, install goeth on your machine. It would be ethereum private network. Also, this network offer smart contract and managing accounts ether.
 Create your admin accounts and genesis block.
 
@@ -39,3 +39,6 @@ mining :
 
 ```miner.start(1)```
 ```miner.stop()```
+
+### Result
+![image](https://user-images.githubusercontent.com/23163982/72681187-69d9a280-3b04-11ea-8fb3-1f65ddcc8e1b.png)
